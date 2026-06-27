@@ -20,7 +20,7 @@ serial_port = ""
 ## Path to settings file
 settingsfile = '/home/henzzzzi/Scripts/AAM_settings.txt'
 
-title = '########## - ArduinoAudioMixer Linux 1.0 - Henzzzzi @ 2k21 - ##########'
+title = '########## - ArduinoAudioMixer Linux 1.0 - Henzzzzi @ 2k26 - ##########'
 
 ######################################## Functions ########################################
 
